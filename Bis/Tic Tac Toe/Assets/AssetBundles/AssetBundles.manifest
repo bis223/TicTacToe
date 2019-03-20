@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 304283097
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cartoon_asset
+      Dependencies: {}
+    Info_1:
+      Name: chalk_asset
+      Dependencies: {}
